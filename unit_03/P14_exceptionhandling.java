@@ -1,9 +1,9 @@
-package Unit_03;
+package unit_03;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-public class P14_ExceptionHandling {
+public class P14_exceptionhandling {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
